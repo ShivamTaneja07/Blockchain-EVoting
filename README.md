@@ -4,4 +4,13 @@ In this system, voters authenticate themselves through MetaMask, allowing them t
 
 Each vote is recorded as an immutable transaction on the blockchain, ensuring transparency and preventing any tampering or manipulation of the voting results. Additionally, the decentralized nature of the blockchain guarantees that no single entity can control or alter the outcome of the election.
 
-This eVoting system offers a modern solution for secure, transparent, and efficient elections, harnessing the power of blockchain technology to uphold democratic principles.
+This eVoting system offers a modern solution for secure, transparent, and efficient elections, harnessing the power of blockchain technology to uphold democratic principles.4
+
+Admin Page
+![admin](https://github.com/user-attachments/assets/93a048fb-ebef-4a6d-ae39-7be7bf507fba)
+
+Cover Page
+![cover](https://github.com/user-attachments/assets/f8739382-92b1-47da-b2ae-274c3d0f4293)
+
+Voting page
+![vote](https://github.com/user-attachments/assets/e5289544-684c-420e-a707-2fe6a441ce02)
